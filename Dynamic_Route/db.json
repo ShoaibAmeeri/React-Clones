@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "shoaib",
+      "username": "Shoaib Ameeri",
+      "email": "shoaibameeri56@gmail.com",
+      "phone": "0306-5585665",
+      "website": "shaoib.surge.sh"
+    },
+    {
+      "id": "2",
+      "name": "shoaib2",
+      "username": "Shoaib2 Ameeri",
+      "email": "shoaibameeri256@gmail.com",
+      "phone": "0306-5585665",
+      "website": "shaoib2.surge.sh"
+    },
+    {
+      "id": "3",
+      "name": "shoaib3",
+      "username": "Shoaib3 Ameeri",
+      "email": "shoaibameeri356@gmail.com",
+      "phone": "0306-5585665",
+      "website": "shaoib3.surge.sh"
+    },
+    {
+      "id": "4",
+      "name": "shoaib4",
+      "username": "Shoaib4 Ameeri",
+      "email": "shoaibameeri456@gmail.com",
+      "phone": "0306-5585665",
+      "website": "shaoib4.surge.sh"
+    },
+    {
+      "id": "73c9",
+      "name": "hafeez",
+      "email": "S@gmail.com",
+      "phone": "22222222222"
+    },
+    {
+      "id": "09f8",
+      "name": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": "e04b",
+      "name": "shaoib",
+      "email": "S@gmail.com",
+      "phone": "s"
+    },
+    {
+      "id": "1ff2",
+      "name": "shaoib",
+      "email": "S@gmail.com",
+      "phone": "1233445677"
+    }
+  ]
+}
